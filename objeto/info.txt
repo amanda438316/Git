@@ -1,0 +1,11 @@
+Objeto: Computador
+
+Processador: Conhecido como cerebro do computador, executar calculos, lógica,e comandar as peças.
+Placa mãe : (Motherboard) : A placa principal que interliga fisicamente todos os componentes
+Memória RAM :  Memória principal e volátil que armazena temporiamente os dados e programas
+Armazenamento HD ou SSD : Memória secudaria e não volátil que guarda arquivos, o sistema operacional
+Placa de video  de GPU : responsavel por procesar imagens, videos, animações e graficos
+Entrada : Envidam dados para a máquina (ex: teclado, mouse,microfone , Scanner
+Saída :Exibem ou transformam os dados processados para o usuario (ex: monitor,caixa de som, impressora
+Aplicativos e programas : Ferramentas voltadas a tarefas especi´ficas para o usuario (navegadores)
+Velocidade (Precisão) : Reliza milhões ou bilhões de operações matematicas e lógicas

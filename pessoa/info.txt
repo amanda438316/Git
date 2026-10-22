@@ -1,0 +1,15 @@
+
+
+Pessoa
+
+Nome : Emilly
+Idade : 15 anos
+Altura :1,54
+Cabelo : Preto 
+Cor de pele : Morena
+OLhos : Preto (Castanho)
+Caracteriticas: Jogar volei,gostar de assistir, gostar de ir para igreja, Gostar de estudar,gostar de viajar 
+Tamanho do pé: 36 
+Corpo: magra
+Orelha : usa brincos
+

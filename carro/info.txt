@@ -6,5 +6,4 @@ modelo: M4 coupé / M4 competion
 Motor: 3.0 L de (6 cilindros em linha M TwinPower turbo a gasolina)
 Rodas e freios: Rodas aro 19 na dianteira e aro 20 na traseira; discos ventilados e perufados
 Transmissão:Automática esportiva M Steptronic de 8 marchas (ZF 8HP) com drivelogic
-Gasolina : Media e alata
-Banco : São com altas tecnologias, e os bancos esportivos 
+Gasolina : Media e alta 
